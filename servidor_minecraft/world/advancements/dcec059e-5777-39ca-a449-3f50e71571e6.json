@@ -1,0 +1,9 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:sparse_jungle": "2025-05-24 17:58:33 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 2975
+}
